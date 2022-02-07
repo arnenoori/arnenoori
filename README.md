@@ -28,13 +28,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arnenoori&show_icons=true&hide_border=true"/>
-
-</details>
-
 [website]: https://arnenoori.com
 [twitter]: https://twitter.com/arnenoori
 [instagram]: https://instagram.com/arnenoori
