@@ -1,7 +1,5 @@
 ### Hello! I'm Arne 🧑‍💻
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arnenoori.com)
-
 ## I'm currently a first year cs student at Cal Poly SLO!
 
 - 🧠 I’m currently learning C & Java
