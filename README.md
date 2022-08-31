@@ -2,7 +2,7 @@
 
 ## I'm currently a first year cs student at Cal Poly SLO!
 
-- 🧠 I’m currently learning C & Java
+- 🧠 I’m currently learning C & JS
 - 🖥️ I’m looking to specialize in ML
 
 ### Connect with me:
