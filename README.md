@@ -1,8 +1,8 @@
 ### Hello! I'm Arne 🧑‍💻
 
-## I'm currently a first year cs student at Cal Poly SLO!
+## I'm currently a second year cs student at Cal Poly SLO!
 
-- 🧠 I’m currently learning C & JS
+- 🧠 I’m currently learning React & PyTorch
 - 🖥️ I’m looking to specialize in ML
 
 ### Connect with me:
