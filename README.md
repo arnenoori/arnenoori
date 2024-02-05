@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack ML Engineer | CS Student at Cal Poly SLO</h3>
 
 <p align="center">
-I'm currently diving deep into React & PyTorch, with a keen interest in specializing in Machine Learning. Ready to embark on new challenges and contribute to innovative projects!
+Looking for a summer 2024 internship.
 </p>
 
 <p align="center">
@@ -23,6 +23,16 @@ I'm currently diving deep into React & PyTorch, with a keen interest in speciali
 <p align="center">
   📧 Email me at <a href="mailto:arne@arne.ai">arne@arne.ai</a>
 </p>
+
+## 💼 Projects:
+
+### Current Projects:
+- **GTO Poker Bot:** A game theory optimal poker bot utilizing reinforcement learning, Q-learning, counterfactual regret minimization, and Naive Bayes. [View on GitHub](https://github.com/arnenoori/gto-poker-bot)
+- **Privacy Guard Chrome Extension:** My Cal Poly senior project; a Chrome extension that enhances internet privacy by analyzing terms of service with GPT-3.5, alerting users to privacy risks. [View on Github](https://arc.net/l/quote/endmewun)
+
+### Recent Projects:
+- **Receipts Full Stack:** Developed a full-stack application that uses GPT-V for OCR receipt information and OpenAI's GPT 3.5 for an AI chatbot, aiding in budget management and financial tracking. [View on GitHub](https://github.com/arnenoori/receipts-full-stack)
+- **The Enchanted Elixir Emporium:** Created a backend service for a simulated RPG potion shop with inventory tracking, order management, and customer interactions. [View on GitHub](https://github.com/arnenoori/the-enchanted-elixir-emporium)
 
 ## 🚀 Skills:
 
