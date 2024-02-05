@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arne 👨‍💻</h1>
-<h3 align="center">Aspiring Software Engineer | CS Student at Cal Poly SLO</h3>
+<h3 align="center">Full-Stack ML Engineer | CS Student at Cal Poly SLO</h3>
 
 <p align="center">
 I'm currently diving deep into React & PyTorch, with a keen interest in specializing in Machine Learning. Ready to embark on new challenges and contribute to innovative projects!
