@@ -1,8 +1,8 @@
 
 <h3 align="center">full-stack | cal poly ml+ai alum</h3>
 
-arne.ai
+learn more at arne.ai
 
-arnenoori on all platforms
+arnenoori on all platforms (most active on X)
 
-arnes.blog to read my writing :)
+currently building [wafflr.app](https://wafflr.app) 🧇
